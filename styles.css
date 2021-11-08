@@ -1,0 +1,104 @@
+@url-адрес импорта('https://fonts.googleapis.com/css2?семья=Roboto&дисплей=подкачка');
+
+
+body {
+    background-color: antiquewhite;
+    color: #0f141e;
+    font-size: 16px;
+    font-weight: normal;
+    font-family: "Roboto", sans-serif;
+    
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration:underline;
+}
+a:visited{
+    color:gray
+}
+
+
+
+
+.avatar {
+    width: 300px;
+    border-radius: 28px;
+    box-shadow: 4px 4px 14px rgba(0, 0, 0, 0, 50%);
+}
+
+.info p{
+    color: #86898f;
+    margin: 0%;
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: none;
+    /*text-transform: uppercase; */
+    /*letter-spacing: 15px;*/
+}
+
+.container{
+    max-width: 750px;
+    margin: auto;
+}
+
+.bg-yellow {
+ background: #fff9dc;
+}
+
+.bg-green {
+    background: #e5ffe7;
+}
+
+.bg-red {
+    background: #ffe5e5;
+    
+}
+
+.card {
+    padding: 15px 20px;
+    margin-bottom: 20px;
+    border-radius: 20px;
+}
+
+.card h2 {
+margin-bottom: 1px;
+padding: 0px;
+margin-left: 17px;
+
+}
+.card h4 {
+    margin-left: 225px;
+    margin-bottom: 25px;
+    margin-right: 1px;
+}
+
+
+
+
+
+
+
+
+
+
+
+/*.social {
+    background: rgb(21, 255, 0);
+    /*padding: 15px;*/
+    /*padding: 15px 40px;*/
+    /*padding: 15px 20px 25px 30px;*/
+   /* padding-top: 15px;
+    padding-right: 20px;
+    padding-bottom: 25px;
+    padding-left: 30px;
+    margin: 5px;
+
+    border: 5px solid rgb(0, 60, 255);
+    border-top-width: 15px;
+    border-right-color: rgb(252, 0, 42);/*
+}
+
